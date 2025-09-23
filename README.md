@@ -22,7 +22,7 @@ Select parameters and run the stress calculation using
 
 ```bash run_hl.sh```
 
-For analysis, us the scripts beginning with "colmesh..." or "curves...". Below are examples of plots that were generated with the code and labelled in [Inkscape](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html).
+For analysis, use the scripts beginning with "colmesh..." or "curves...". Below are examples of plots that were generated with the code and labelled in [Inkscape](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html).
 
 ![Examples](example_figs/example_fig1.png)
 
